@@ -1,7 +1,7 @@
 - 👋  Hi, I’m @kathleenjo1. I am a Senior Technical Copywriter for T-Mobile. 
 - 👀  I’m interested in the [T-Mobile Open Source Community](https://github.com/tmobile/opensource). 
-- 🌱  I’m currently learning about IoT.
-- 💞️  I’m looking to collaborate on how to documentation. 
+- 🌱  I’m currently learning Spanish.
+- 💞️  I’m looking to collaborate on how-to documentation. 
 
 <!---
 - 📫  How to reach me ...
