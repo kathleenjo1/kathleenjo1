@@ -1,4 +1,4 @@
-- 👋  Hi, I’m @kathleenjo1. I am a Senior Technical Copywriter for T-Mobile. 
+- 👋  Hi, I’m @kathleenjo1. I am a Senior Technical Writer for T-Mobile. 
 - 💞️  I’m looking to collaborate on how-to documentation. 
 
 <!---
